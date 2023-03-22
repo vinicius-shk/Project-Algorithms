@@ -1,6 +1,6 @@
 def study_schedule(permanence_period, target_time):
     student_numbers = 0
-    try: 
+    try:
         for in_time, out_time in permanence_period:
             if in_time <= target_time <= out_time:
                 student_numbers += 1
