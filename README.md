@@ -1,30 +1,26 @@
 # Algoriths
 
-This project was my first attempt to understand the basics of data science and data manipulation in Python. it manipulates data in CSV files to extract the desired information.
+This project was a study case to learn about Big-O complexity and recursivity in Python. It consists of a few complexity challenges and recursive and iterative exercises.
 
 ## Installation
 
 Clone the project
 
 ```
-git clone git@github.com:vinicius-shk/Project-Job-Insights.git
+git clone git@github.com:vinicius-shk/Project-Algorithms.git
 ```
 
 Navigate to the cloned repository
 
 ```
-cd Project-Job-Insight
+cd Project-Algorithms
 ```
 
 To install the project's dependencies, run the following commands:
 
 ```
-python3 -m venv .venv && source .venv/bin/activate && docker-compose up -d
+python3 -m venv .venv && source .venv/bin/activate
 ```
-
-## Usage
-
-The application has implemented page in http://localhost:3000/job
 
 ## Contributing
 
