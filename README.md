@@ -20,6 +20,7 @@ To install the project's dependencies, run the following commands:
 
 ```
 python3 -m venv .venv && source .venv/bin/activate
+python3 -m pip install -r dev-requirements.txt
 ```
 
 ## Contributing
